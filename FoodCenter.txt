@@ -1,0 +1,4 @@
+First Cashier queue Details: asd, asdasd
+Second Cashier queue Details: 
+Third Cashier queue Details: 
+Burgers in stock : 40
